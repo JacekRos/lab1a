@@ -2,3 +2,13 @@ body {
 background-color: yellow;
 }
 
+
+
+
+@media screen and (max-width:999px){
+  body {
+    background-color: blue;
+  }
+}
+
+
